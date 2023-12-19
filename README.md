@@ -23,6 +23,10 @@ AlbeshriRehab@gmail.com
 The optimal zone for performance is “slightly hungry.”
 
 
+## ✍🏻 Skills
+
+<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
 
 <!--
 **Rehab26/Rehab26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
