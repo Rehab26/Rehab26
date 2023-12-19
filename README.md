@@ -25,7 +25,7 @@ The optimal zone for performance is “slightly hungry.”
 
 ## ✍🏻 Skills
 
-<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+[logo]<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 
 <!--
