@@ -3,7 +3,9 @@
 
 
 ## 🚀 About Me
-Full stack web developer with Information Technology degree, I have worked on many different projects and langugages for now I'am intersted with JS new technologies
+Full stack web developer with Information Technology degree
+
+I have worked on many different projects and langugages for now I'am intersted with the new JS technologies
 
 
 ## If you intersted, will keep this updated! 😍
