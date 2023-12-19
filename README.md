@@ -1,4 +1,28 @@
-### Hi there 👋
+
+# Hi, I'am Rehab! 👋
+
+
+## 🚀 About Me
+Full stack web developer with Information Technology degree, I have worked on many different projects and langugages for now I'am intersted with JS new technologies
+
+
+## If you intersted, will keep this updated! 😍
+- 👩‍💻 currently working on building custom wordpress theme for a client
+
+- 🧠 currently learning Next JS 
+
+- 👯‍♀️ looking to collaborate with a team working on React & Next JS
+
+
+📫 Send me a message
+
+AlbeshriRehab@gmail.com
+
+# ⚡️ Fun Fact 
+
+The optimal zone for performance is “slightly hungry.”
+
+
 
 <!--
 **Rehab26/Rehab26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
